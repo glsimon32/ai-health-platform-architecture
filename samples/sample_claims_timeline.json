@@ -1,0 +1,31 @@
+{
+  "patientId": "sample-patient-001",
+  "claimId": "sample-claim-001",
+  "encounterDate": "2026-04-12",
+  "provider": "Sample Medical Group",
+  "claimStatus": "Pending Review",
+  "billedAmount": 1320.5,
+  "allowedAmount": 860.25,
+  "payerPaidAmount": 640.0,
+  "patientResponsibility": 220.25,
+  "timeline": [
+    {
+      "date": "2026-04-12",
+      "event": "Visit completed"
+    },
+    {
+      "date": "2026-04-14",
+      "event": "Claim generated"
+    },
+    {
+      "date": "2026-04-15",
+      "event": "Claim submitted to payer"
+    },
+    {
+      "date": "2026-04-18",
+      "event": "Payer review pending"
+    }
+  ],
+  "patientExplanation": "Your claim is currently under payer review. The final amount you may owe can change after the payer completes processing.",
+  "note": "Synthetic sample only. No PHI or real claim data."
+}
