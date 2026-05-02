@@ -1,0 +1,12 @@
+{
+  "taskId": "provider-task-001",
+  "taskType": "AI Note Review",
+  "assignedRole": "Provider",
+  "priority": "medium",
+  "patientContext": "De-identified sample context",
+  "summary": "Review AI-drafted follow-up note before signing.",
+  "aiDraftAvailable": true,
+  "requiresHumanApproval": true,
+  "status": "Awaiting Review",
+  "note": "Synthetic sample only. No PHI or clinical data."
+}
