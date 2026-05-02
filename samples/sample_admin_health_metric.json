@@ -1,0 +1,10 @@
+{
+  "serviceName": "Claims Intake",
+  "status": "Healthy",
+  "averageLatencyMs": 210,
+  "errorRatePercent": 0.5,
+  "requestsLast24Hours": 2431,
+  "lastChecked": "2026-04-29T18:30:00Z",
+  "securityAlertsLast24Hours": 0,
+  "note": "Synthetic operational sample only."
+}
