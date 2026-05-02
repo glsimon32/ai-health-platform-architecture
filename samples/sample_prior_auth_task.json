@@ -1,0 +1,15 @@
+{
+  "priorAuthTaskId": "pa-task-001",
+  "requestType": "Imaging Prior Authorization",
+  "payer": "Sample Payer",
+  "status": "Documentation Review",
+  "requiredDocuments": [
+    "Clinical notes",
+    "Medical necessity summary",
+    "Previous conservative treatment evidence"
+  ],
+  "aiPreparedSummary": true,
+  "humanReviewRequired": true,
+  "recommendedNextStep": "Review generated medical necessity summary before payer submission.",
+  "note": "Synthetic sample only. No PHI, payer data, or clinical determination."
+}
