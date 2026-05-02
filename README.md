@@ -116,6 +116,14 @@ The solution vision includes:
 
 ## 5. High-Level Architecture
 
+![AI Health Platform Architecture](AI-Health-Platform-architecture.png)
+
+*Conceptual overview of the AI Health Platform connecting patient, provider, payer, claims, prior authorization, and admin workflows.*
+
+![Connected AI Workflows](Connected-AI-Workflows.png)
+
+*Workflow view showing Provider Copilot, Patient Portal, Admin Operations Console, claims timeline, and privacy-first interoperability layers.*
+
 ```text
 +-------------------------------------------------------------------+
 |                         User Experience Layer                     |
